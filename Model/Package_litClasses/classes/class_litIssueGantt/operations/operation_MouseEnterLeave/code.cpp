@@ -1,0 +1,1 @@
+downPosX = -1;

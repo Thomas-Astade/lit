@@ -1,0 +1,2 @@
+myIssues.sort(SortByName);
+BuildFilteredList();

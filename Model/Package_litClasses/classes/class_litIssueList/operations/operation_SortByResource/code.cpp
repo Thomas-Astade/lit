@@ -1,0 +1,1 @@
+return (a->GetResource() < b->GetResource());

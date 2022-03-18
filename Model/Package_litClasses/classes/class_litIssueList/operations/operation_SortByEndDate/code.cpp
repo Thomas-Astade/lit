@@ -1,0 +1,1 @@
+return (a->GetEnd() < b->GetEnd());

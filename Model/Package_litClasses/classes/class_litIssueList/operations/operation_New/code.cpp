@@ -1,0 +1,3 @@
+myIssues.clear();
+BuildFilteredList();
+Refresh();

@@ -1,0 +1,1 @@
+return (dependOn.find(dependentFrom) != dependOn.end());
